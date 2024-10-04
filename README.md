@@ -1,6 +1,6 @@
 # Telegram Bot Template for LLM Integration
 
-This project is a template for developers to create a Telegram bot that communicates with LLM (Large Language Model) API of your choice. With simple configuration, developers can connect the bot to their preferred LLM service and handle responses.
+This project is a template for developers to create a Telegram bot that communicates with the LLM (Large Language Model) API of their choice. With a simple configuration, developers can connect the bot to their preferred LLM service and handle the responses.
 
 ## Features
 
