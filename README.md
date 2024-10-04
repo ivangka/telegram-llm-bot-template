@@ -28,9 +28,9 @@ This project is a template for developers to create a Telegram bot that communic
 2. Update the `Config` class with your credentials:
    ```java
    public class AppConfig {
-        public static final String BOT_TOKEN = "your_telegram_bot_token";
-        public static final String API_TOKEN = "your_api_token";
-        public static final String API_URI = "api_uri";
+        private static final String BOT_TOKEN = "your_telegram_bot_token";
+        private static final String API_TOKEN = "your_api_token";
+        private static final String API_URI = "api_uri";
         // ...
    }
    ```
