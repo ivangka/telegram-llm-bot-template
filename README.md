@@ -6,6 +6,7 @@ This project is a template for developers to create a Telegram bot that communic
 
 - Easy to configure: just set the bot token, API token, and API URI.
 - Sends user input to the API and returns the generated response to the Telegram chat.
+- The project includes logging to track user messages and bot responses in Telegram chat, as well as to log errors and monitor API responses.
 
 ## Getting Started
 
