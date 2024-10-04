@@ -50,3 +50,6 @@ This project is a template for developers to create a Telegram bot that communic
 
 - Once the bot is running, users can send messages to the Telegram bot.
 - The bot will forward the message to the selected LLM API and return the generated response to the user in Telegram.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
