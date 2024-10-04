@@ -11,7 +11,7 @@ This project is a template for developers to create a Telegram bot that communic
 
 ### Prerequisites
 
-- [JDK 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 - [Maven](https://maven.apache.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - A Telegram bot token from [BotFather](https://core.telegram.org/bots#botfather)
